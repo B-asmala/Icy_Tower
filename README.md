@@ -9,7 +9,7 @@ This is our own edition of the famous Icy Tower game, in which the player jumps 
 🌟 Stuff that decreases health (spikes and meteors).\
 🌟 New design of the game environment.\
 and much more.
-## Game Play:
+## Gameplay:
 ![Screenshot](Docs/GamePlay/icy1.png)\
 ![Screenshot](Docs/GamePlay/icy2.png)\
 ![Screenshot](Docs/GamePlay/icy3.png)\
