@@ -58,7 +58,7 @@ public class GameStage extends Stage{
         setTitle("Icy Tower");
         Image icon = new Image("file:/home/basmala/NetBeansProjects/Icy Tower/src/Images/Icon.png");
         getIcons().add(icon);
-        jumpSound = new AudioClip("https://drive.google.com/uc?id=1peQsmcDOkZ7GJaJ9fARSEQ7YawPR_GDG");
+        //jumpSound = new AudioClip("https://drive.google.com/uc?id=1peQsmcDOkZ7GJaJ9fARSEQ7YawPR_GDG");
        
         
         ds = new DieStage();
@@ -132,7 +132,7 @@ public class GameStage extends Stage{
                 p1.velocityY = -p1.jumpHeight;
                 p1.iv.setY(p1.iv.getY() + p1.velocityY);
                 
-                jumpSound.play();
+                //jumpSound.play();
             }
             if(event.getCode() == KeyCode.P){ //pause the game when you press p 
                 

@@ -15,7 +15,7 @@ public class Coin extends Pane {
     private int posY = -500;
     private int posX = random.nextInt(0, GameVariables.width - COIN_SIZE);
     ImageView coin = new ImageView(new Image("file:/home/basmala/NetBeansProjects/Icy Tower/src/Images/coin.png"));
-    AudioClip coinSound = new AudioClip("https://drive.google.com/uc?id=1zYXD9E-ABbeSBto8YxpmGCUhwbbbUxje");
+    //AudioClip coinSound = new AudioClip("https://drive.google.com/uc?id=1zYXD9E-ABbeSBto8YxpmGCUhwbbbUxje");
     boolean touched = false;
     Coin(){
         
@@ -38,7 +38,7 @@ public class Coin extends Pane {
             coin.setY(posY);
             //if the player touch the coin he will gain money 
             GameVariables.coinCount++;
-            coinSound.play();
+           // coinSound.play();
         }else if(this.posY > GameVariables.height){
             //  if the meteor out of frame it will disappear
             posX = random.nextInt(0, GameVariables.width - COIN_SIZE);
