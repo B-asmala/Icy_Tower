@@ -20,4 +20,4 @@ and much more.
 
 
 🟡 This edition was made by the amazing team:\
-[Fayza Mahmoud](https://www.linkedin.com/in/fayza-mahmoud-5567b9247) | [Mariam Osman](www.linkedin.com/in/mariam-osman-5281b4237) | [Farah Mahmoud](https://www.linkedin.com/in/farah-mahmoud-27a955256) | [Menna Tawfiq](https://www.linkedin.com/in/menna-tawfiq-38ab771b0) | me.
+[Fayza Mahmoud](https://www.linkedin.com/in/fayza-mahmoud-5567b9247) | [Mariam Osman](https://www.linkedin.com/in/mariam-osman-5281b4237) | [Farah Mahmoud](https://www.linkedin.com/in/farah-mahmoud-27a955256) | [Menna Tawfiq](https://www.linkedin.com/in/menna-tawfiq-38ab771b0) | me.
